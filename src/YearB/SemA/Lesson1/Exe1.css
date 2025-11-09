@@ -1,0 +1,38 @@
+* {
+    margin: 0 auto;
+}
+
+body {
+    text-align: center;
+}
+
+.deleteButton{
+    margin-left: 20px;
+}
+
+.addTaskButton{
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+input{
+    font-size: 25px;
+}
+
+ul{
+    margin-top: 40px;
+}
+
+li{
+    font-size: 23px;
+    padding-bottom: 15px;
+}
+
+.taskText{
+    font-size: 30px;
+}
+
+h1{
+    font-size: 70px;
+    margin-bottom: 30px;
+}
